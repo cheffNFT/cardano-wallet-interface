@@ -1,5 +1,5 @@
 {
-  "name": "@harmonicpool/cardano-wallet-interface",
+  "name": "@cheffNFT/cardano-wallet-interface",
   "version": "1.4.0",
   "description": "a package that makes easier to interact with wallets on cardano",
   "main": "src/index.js",
@@ -14,16 +14,16 @@
     "ada",
     "dApp"
   ],
-  "author": "Michele Nuzzi",
+  "author": "cheffNFT",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarmonicPool/cardano-wallet-interface.git"
+    "url": "git+https://github.com/cheffnft/cardano-wallet-interface.git"
   },
   "bugs": {
-    "url": "https://github.com/HarmonicPool/cardano-wallet-interface/issues"
+    "url": "https://github.com/cheffnft/cardano-wallet-interface/issues"
   },
-  "homepage": "https://github.com/HarmonicPool/cardano-wallet-interface#readme",
+  "homepage": "https://github.com/cheffnft/cardano-wallet-interface#readme",
   "dependencies": {
     "@emurgo/cardano-serialization-lib-browser": "^9.1.2",
     "buffer": "^6.0.3"
